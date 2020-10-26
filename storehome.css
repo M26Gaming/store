@@ -194,3 +194,17 @@ body{
 	color: #9a0000;
 	text-decoration: underline;
 }
+
+.ad {
+	background-color: white;
+	position: fixed;
+	text-align: center;
+	padding: 250px 0;
+}
+
+.ad:hover {
+	background-color: #9a0000;
+	color: white;
+	cursor: not-allowed;
+
+}
