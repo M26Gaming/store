@@ -7,17 +7,44 @@
   if (a=="amazing spider man 2") {
     window.location.href=("")
   }
-  if (a=="human fall flat") {
-  	window.location.href=("https://m26gaming.github.io/redirect/")
+  if (a=="human fall flat android") {
+  	window.location.href=("https://m26gaming.github.io/HUMAN-FALL-FLAT/")
+  }
+  if (a=="human fall flat pc") {
+    window.location.href=("https://m26gaming.github.io/human-fall-flat-pc/")
+  }
+  if (a=="") {
+    window.location.href=("")
+  }
+  if (a=="") {
+    window.location.href=("")
+  }
+  if (a=="") {
+    window.location.href=("")
+  }
+  if (a=="") {
+    window.location.href=("")
+  }
+  if (a=="") {
+    window.location.href=("")
+  }
+  if (a=="") {
+    window.location.href=("")
   }
   if (a=="grand theft auto 5") {
     window.location.href=("https://m26gaming.github.io/gta-5/")
   }
-  if (a=="grand theft auto san andreas") {
-    window.location.href=("https://m26gaming.github.io/gtaSAN-redirect/")
+  if (a=="grand theft auto san andreas android") {
+    window.location.href=("https://m26gaming.github.io/sanandroid/")
   }
-  if (a=="grand theft auto vice city") {
-    window.location.href=("https://m26gaming.github.io/gta-5/")
+  if (a=="grand theft auto san andreas pc") {
+    window.location.href=("https://m26gaming.github.io/san/")
+  }
+  if (a=="grand theft auto vice city android") {
+    window.location.href=("https://m26gaming.github.io/viceandroid/")
+  }
+  if (a=="grand theft auto vice city pc") {
+    window.location.href=("https://m26gaming.github.io/vcpc/")
   }
   if (a=="grand theft auto 4") {
     window.location.href=("https://m26gaming.github.io/gta-5/")
