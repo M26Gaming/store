@@ -1,10 +1,10 @@
   function goto(){
   var a=document.getElementById("search").value;
 
-  if (a=="among us") {
+  if (a=="among us pc") {
     window.location.href=("https://m26gaming.github.io/among-us/");
   }
-  if (a=="amazing spider man 2") {
+  if (a=="amazing spider man 2 android") {
     window.location.href=("")
   }
   if (a=="human fall flat android") {
@@ -31,7 +31,7 @@
   if (a=="") {
     window.location.href=("")
   }
-  if (a=="grand theft auto 5") {
+  if (a=="grand theft auto 5 pc") {
     window.location.href=("https://m26gaming.github.io/gta-5/")
   }
   if (a=="grand theft auto san andreas android") {
@@ -46,7 +46,7 @@
   if (a=="grand theft auto vice city pc") {
     window.location.href=("https://m26gaming.github.io/vcpc/")
   }
-  if (a=="grand theft auto 4") {
+  if (a=="grand theft auto 4 pc") {
     window.location.href=("https://m26gaming.github.io/gta-5/")
   }
 }
